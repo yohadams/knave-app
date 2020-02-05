@@ -1,0 +1,21 @@
+{
+  "name": "knave-app",
+  "version": "1.0.0",
+  "description": "App version of generators from knave and maze rats",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knave",
+    "mazerats",
+    "rpg",
+    "tabeltop",
+    "yohadams"
+  ],
+  "author": "YohAdams",
+  "license": "Beerware",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
