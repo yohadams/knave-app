@@ -1,0 +1,16 @@
+{
+    name: '',
+    hd: '',
+    ac: '',
+    attack: '',
+    appering: '',
+    movement: '',
+    tresure: '',
+    drop: [
+        {
+            name: '',
+            count: '',
+        }
+    ],
+    abilities: []
+}
